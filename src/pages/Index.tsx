@@ -78,12 +78,8 @@ export default function Index() {
       <section id="home" className="pt-20 pb-16 px-4">
         <div className="container mx-auto text-center">
           <div className="max-w-4xl mx-auto animate-fade-in">
-            <h1 className="text-6xl md:text-8xl font-montserrat font-bold mb-6 bg-gradient-to-r from-primary to-purple-400 bg-clip-text text-transparent">
-              Александр
-            </h1>
-            <h2 className="text-2xl md:text-3xl font-montserrat font-medium mb-8 text-muted-foreground">
-              Full-Stack Developer & UI/UX Designer
-            </h2>
+            <h1 className="text-6xl md:text-8xl font-montserrat font-bold mb-6 bg-gradient-to-r from-primary to-purple-400 bg-clip-text text-transparent">Korand</h1>
+            <h2 className="text-2xl md:text-3xl font-montserrat font-medium mb-8 text-muted-foreground">UI/UX Designer</h2>
             <p className="text-lg mb-10 text-muted-foreground max-w-2xl mx-auto">
               Создаю современные веб-приложения и мобильные решения. 
               Специализируюсь на React, TypeScript и Node.js
